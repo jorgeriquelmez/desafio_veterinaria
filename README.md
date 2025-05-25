@@ -12,3 +12,8 @@
 ## Imagen de respaldo de ejecuición
 
 ![foto1](./Captura%20desafio.png)
+
+## Entrada invalida con datos faltantes
+
+Respaldo de tratar de registrar sin todos la información necesaria
+![foto2](./Captura2%20desafio.png)
